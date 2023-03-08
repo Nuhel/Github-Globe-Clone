@@ -1,0 +1,17 @@
+{
+  "type": "PullRequest",
+  "pulls": [
+    {
+      "type": "pull",
+      "order": 1,
+      "from": "BD",
+      "to": "UAE",
+      "startLat":24.481591,
+      "startLng":91.7830984,
+      "endLat":24.9358945,
+      "endLng":55.2489645,
+      "arcAlt": 0.05
+    }
+  ]
+
+}

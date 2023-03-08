@@ -1,0 +1,21 @@
+{
+  "type": "map",
+  "coordinates": [
+    {
+      "text": "BD",
+      "size": 1.0,
+      "country": "Bangladesh",
+      "city": "Moulvi Bazar",
+      "lat": 24.481591,
+      "lng": 91.7830984
+    },
+    {
+      "text": "UAE",
+      "size": 1.0,
+      "country": "United Arab Emirates",
+      "city": "YLS Falcons",
+      "lat": 24.9358945,
+      "lng": 55.2489645
+    }
+  ]
+}
